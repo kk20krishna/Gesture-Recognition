@@ -47,7 +47,11 @@ We will experiment with these models:
 
 This will help compare their performance and efficiency.
 
-![image](https://github.com/user-attachments/assets/1f6ec979-fe2c-46d8-8469-cdcf4e102a42)
+![image](https://github.com/user-attachments/assets/ada360e2-1433-49a6-b1ff-bd5ec8ff82df)
+
+
+**model_19_MobileNet_Train_RNN_GRU-->**
+![image](https://github.com/user-attachments/assets/daa0beb0-7222-4960-90ca-ea771a662cdc)
 
 
 
@@ -60,4 +64,4 @@ Since both MobileNet and EfficientNet transfer learning models provide the simil
 
 # **Final Model**
 
-**For real-time TV applications where fast inference and low power consumption are crucial, MobileNetV3 transfer learning model model_17_MobileNet_Train_RNN_GRU is the best choice.**
+**For real-time TV applications where fast inference and low power consumption are crucial, MobileNet transfer learning (alpha=0.75) model 19 “model_19_MobileNet_Train_RNN_GRU” is the best choice given that it balances model size and accuracy.**
