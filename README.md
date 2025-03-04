@@ -47,7 +47,7 @@ We will experiment with these models:
 
 This will help compare their performance and efficiency.
 
-![image](https://github.com/user-attachments/assets/e087e6f5-6788-4aa4-b399-4a7b4a758e90)
+![image](https://github.com/user-attachments/assets/1f6ec979-fe2c-46d8-8469-cdcf4e102a42)
 
 
 
