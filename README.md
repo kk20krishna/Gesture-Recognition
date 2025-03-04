@@ -1,5 +1,3 @@
-# Gesture-Recognition
-
 **Problem Statement**
 
 Develop a Gesture recognition model for Smart TVs that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
@@ -48,6 +46,9 @@ We will experiment with these models:
 - EfficientNetB0 + GRU (trainable base)  
 
 This will help compare their performance and efficiency.
+
+![image](https://github.com/user-attachments/assets/0e240d00-601d-4e54-8c30-233568889bd9)
+
 
 # Model for Real-Time TV Application
 Since both MobileNet and EfficientNet transfer learning models provide the simillar accuracy in this scenario, the deciding factors are latency, computational efficiency, and deployment feasibility:
