@@ -47,7 +47,8 @@ We will experiment with these models:
 
 This will help compare their performance and efficiency.
 
-![image](https://github.com/user-attachments/assets/0e240d00-601d-4e54-8c30-233568889bd9)
+![image](https://github.com/user-attachments/assets/e087e6f5-6788-4aa4-b399-4a7b4a758e90)
+
 
 
 # Model for Real-Time TV Application
